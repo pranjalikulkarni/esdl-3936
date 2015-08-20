@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<iostream.h>
+using namespace std;
 cout<<"hello cummins!";
 int main()
 {
