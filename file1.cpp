@@ -1,3 +1,7 @@
 #include<stdio.h>
-#include<conio.h>
 #include<iostream.h>
+cout<<"hello cummins!";
+int main()
+{
+  
+}
